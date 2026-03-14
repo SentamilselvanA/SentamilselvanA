@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | AI Builder | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Building+AI+Powered+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;AI+Project+Builder;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 # 👨‍💻 About Me
 
 🎓 BE / CSE Student at **Sri Eshwar College of Engineering**  
-🚀 Passionate about building **real-world full-stack applications**  
-🧠 Interested in **AI-powered developer tools**  
-⚡ Love solving **DSA problems and learning new technologies**
+🚀 MERN Stack Developer passionate about **building real-world applications**  
+🧠 Interested in **AI powered developer tools**  
+⚡ Love solving **DSA problems**
 
 ---
 
@@ -44,13 +44,13 @@
 # 🚀 Featured Projects
 
 ### 🔎 Profile Analyzer
-AI-powered tool that analyzes coding profiles and gives insights on performance, strengths, and weaknesses.
+Analyzes developer coding profiles and gives insights on performance and strengths.
 
 ### 📊 SkillGap Analyzer
-Helps developers identify **missing skills** needed for their target roles.
+Helps developers identify missing skills required for their target roles.
 
 ### 🧠 AlgoVision
-AI algorithm pattern recognizer with **step-by-step visual learning** for DSA problems.
+AI-powered algorithm pattern recognizer with visual learning for DSA problems.
 
 ---
 
@@ -66,6 +66,14 @@ AI algorithm pattern recognizer with **step-by-step visual learning** for DSA pr
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SentamilselvanA&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Radar
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SentamilselvanA&theme=tokyonight"/>
 </p>
 
 ---
@@ -98,7 +106,7 @@ AI algorithm pattern recognizer with **step-by-step visual learning** for DSA pr
 
 ---
 
-# ⚡ Fun Quote
+# ⚡ Quote
 
 > “First solve the problem. Then write the code.”
 
